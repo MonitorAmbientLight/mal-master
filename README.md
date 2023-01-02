@@ -20,7 +20,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## Assembling the MAL
  **Step 1**
 Have the white breadboard and the oblong microcontroller ready.
-![alt text](://github.com/MonitorAmbientLight/mal-master/blob/main/pictures/01.jpg?raw=true)
+![alt text](://github.com/MonitorAmbientLight/mal-master/tree/main/pictures01.jpg?raw=true)
 
 Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.
 02
