@@ -26,7 +26,7 @@ You might have to find equivilant substitutes.
 ## Printing the MAL case
 
 You can either print the case by yourself or use an 3D printing service.  
-The corresponding files are in the 3dmodels folder:  
+The corresponding files are in the [3dmodels folder](/3dmodels):  
   
 - mal-base.stl
 - mal-cable-strain-relief.stl
