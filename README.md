@@ -1,42 +1,43 @@
 # Introduction to Monitor Ambient Light (MAL)
 
-The Monitor Ambient Light system (MAL) is a simple and inexpensive open source solution that enhances the immersion while playing games and watching movies and series on a monitor.
+The Monitor Ambient Light system (MAL) is a simple and inexpensive open source solution that enhances the immersion while playing games and watching movies and series on a monitor.  
 
-This solution is based on the open source product Hyperion and is intended to provide a quick and easy way to deploy ambient lights for monitors that anyone can use, with pre-built 3D models, instructions, parts list and pre-built images.
+This solution is based on the open source product Hyperion and is intended to provide a quick and easy way to deploy ambient lights for monitors that anyone can use, with pre-built 3D models, instructions, parts list and pre-built images.  
 
-The MAL system is interposed between the source and the output device via HDMI. The HDMI signal is analyzed by a Raspberry Pi via a capture card. The colors in the image signal indicate the colors of the LEDs, which light up according to the signal.
+The MAL system is interposed between the source and the output device via HDMI. The HDMI signal is analyzed by a Raspberry Pi via a capture card. The colors in the image signal indicate the colors of the LEDs, which light up according to the signal.  
 
-Below you will find everything that is necessary to 3D print the case, assemble the MAL system and getting started with the software.
+Below you will find everything that is necessary to 3D print the case, assemble the MAL system and getting started with the software.  
 
 # Preparations / Requirements
 In order to assemble the system and get started, you still need some hardware components and software. To ensure compatibility, you should use the listed hardware and software. If you have advanced knowledge you can of course use other parts and modify them as you like.
+
 ## Hardware list
 
-Use the provided MAL Hardware list in the parts folder to get every needed part together for this project.
-We can not guarantee the availability of each part in your region.
-You might have to find equivilant substitutes.
+Use the provided MAL Hardware list in the parts folder to get every needed part together for this project.  
+We can not guarantee the availability of each part in your region.  
+You might have to find equivilant substitutes.  
 
 ## Software download
 
 ## Printing the MAL case
 
-You can either print the case by yourself or use an 3D printing service.
-The corresponding files are in the 3dmodels folder:
-
+You can either print the case by yourself or use an 3D printing service.  
+The corresponding files are in the 3dmodels folder:  
+  
 - mal-base.stl
 - mal-cable-strain-relief.stl
 - mal-capture-card-mount.stl
 - mal-top-cover.stl
+  
+As we can only use FDM printers by now we can only advice you to use the following print settings:  
+  
+Resolution: 0.2 mm  
+Supports: no  
+Infill: 15 %  
+Print speed: 70 mm/s  
 
-As we can only use FDM printers by now we can only advice you to use the following print settings:
-
-Resolution: 0.2 mm
-Supports: no
-Infill: 15 %
-Print speed: 70 mm/s
-
-You can either use PETG or PLA in any desired color as your printing material. Any other material like ABS should be also no problem.
->> Don't use a soft plastic like TPU or conductive material. 
+You can either use PETG or PLA in any desired color as your printing material. Any other material like ABS should be also no problem.  
+>> Don't use a soft plastic like TPU or conductive material.  
 
 
 # Hardware assembly
@@ -163,8 +164,8 @@ The final result should look like this:
 
 ## Assembling the LEDs to a monitor
 
-## Connecting MAL to HDMI devices
-
+## Connecting MAL to HDMI devices and the LED strips
+### HDMI
 Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.
 As an input device you can use any HDMI capable device with a maximum resolution of 3680x2160 and a refresh rate of 60 Hz.
 If the audio needs to be send through HDMI this is no problem with the MAL as the audio will be passed through,
@@ -175,6 +176,9 @@ If the audio needs to be send through HDMI this is no problem with the MAL as th
 - Right: HDMI input
 
 ![29](/pictures/29.jpeg)
+
+### LED strips
+Connect the both ends of the 4 pin cables of the MAL with the LED strip.
 
 # Software preparation
 ## 
