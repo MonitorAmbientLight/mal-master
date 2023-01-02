@@ -80,7 +80,7 @@ Take the black cable from the hollow plug and plug it into the very last positio
 ![13](/pictures/13.jpeg)
 
 The last cable is the white cable with both male ends.
-Plug on end in the very next vertical position after the last plugged in black cable.
+Plug the end in the very next vertical position after the last plugged in black cable.
 ![14](/pictures/14.jpeg)
 
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
@@ -90,7 +90,7 @@ Be sure to review your work and compare it with the pictures as this step is nec
 Have three of the Wago clamps ready.
 ![15](/pictures/15.jpeg)
 
-Use one Wago clamp for the red and one Wago clamp for the white cable which you installed an secured in Step 2. Clamp the ends of the cables in the Wago clamp.
+Use one Wago clamp for the red and one Wago clamp for the white cable which you installed in Step 2. Clamp the ends of the cables in the Wago clamp.
 ![16](/pictures/16.jpeg)
 
 For the green and blue cables use only one Wago clamp and clamp the ends together.
