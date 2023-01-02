@@ -17,7 +17,7 @@ If you have advanced knowledge you can of course use other parts and modify them
 
 ## Hardware list
 
-Use the provided MAL Hardware list in the [parts folder] (/parts) to get every needed part together for this project.  
+Use the provided MAL Hardware list in the ![parts folder](/parts) to get every needed part together for this project.  
 We can not guarantee the availability of each part in your region.  
 You might have to find equivilant substitutes.  
 
