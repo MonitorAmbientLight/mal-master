@@ -23,10 +23,10 @@ You might have to find equivilant substitutes.
 You can either print the case by yourself or use an 3D printing service.
 The corresponding files are in the 3dmodels folder:
 
-mal-base.stl
-mal-cable-strain-relief.stl
-mal-capture-card-mount.stl
-mal-top-cover.stl
+- mal-base.stl
+- mal-cable-strain-relief.stl
+- mal-capture-card-mount.stl
+- mal-top-cover.stl
 
 As we can only use FDM printers by now we can only advice you to use the following print settings:
 
@@ -171,8 +171,8 @@ If the audio needs to be send through HDMI this is no problem with the MAL as th
 
 > **For example:** If you want to use a XBOX Series One with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
 
-Left: Input HDMI
-Right: Output HDMI
+Left: HDMI output
+Right: HDMI input
 
 ![29](/pictures/29.jpeg)
 
