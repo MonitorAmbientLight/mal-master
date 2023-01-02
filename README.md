@@ -37,7 +37,7 @@ Infill: 15 %
 Print speed: 70 mm/s  
 
 You can either use PETG or PLA in any desired color as your printing material. Any other material like ABS should be also no problem.  
->> Don't use a soft plastic like TPU or conductive material.  
+> Don't use a soft plastic like TPU or conductive material.  
 
 # Hardware assembly
 ## Assembling the MAL
