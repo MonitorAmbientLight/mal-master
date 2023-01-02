@@ -28,12 +28,12 @@ Have the white breadboard and the oblong microcontroller ready.
 Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.
 ![02](/pictures/02.jpeg)
 
-Now pull off the cover foil of the adhesive pad on the bottom side of the breadboard. Now glue the breadboard into the MAL case so that it rests against the wall (yellow marker) and the horizontal edge is about 1.5 centimeters away from the lower wall (orange marker).
+Now pull off the cover foil of the adhesive pad on the bottom side of the breadboard. Glue the breadboard into the MAL case (3D Model: mal-base) so that it rests against the wall (yellow marker) and the horizontal edge is about 1.5 centimeters away from the lower wall (orange marker).
 ![03](/pictures/03.jpeg)
 
 ### Step 2
 
-Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief with two hex screws (Part no. X) (yellow marker).
+Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two hex screws (Part no. X) (yellow marker).
 ![04](/pictures/04.jpeg)
 
 The intermediate result should now look like this:
@@ -112,19 +112,19 @@ Place the Raspberry Pi on the intended place in the MAL case.
 Secure the Raspberry Pi with the three screws.
 ![21](/pictures/21.jpeg)
 
-Now connect the red, white and green cable from Step 4 with the female end to the Raspberry Pi als shown:
+Now connect the red, white and green cable from Step 4 with the female end to the Raspberry Pi as shown:
 ![22](/pictures/22.jpeg)
 
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
 
 ### Step 7
 
-Have the black capture card the the corresponding USB A 3.0 to USB A 3.0 cable as well as the capture card holder with one hex screw (Part no. X) ready.
+Have the black capture card and the corresponding USB A 3.0 to USB A 3.0 cable as well as the capture card mount (3D Model: mal-capture-card-mount) with one hex screw (Part no. X) ready.
 ![23](/pictures/23.jpeg)
 ![24](/pictures/24.jpeg)
 
 Place the capture card in the intended place. Be sure that the orientation is correct. The two HDMI ports must be fully accessible from the outside of the MAL case.
-Now secure the capture card with the capture card holder and the screw.
+Now secure the capture card with the capture card mount and the screw.
 ![25](/pictures/25.jpeg)
 
 Finally connect the capture card with the Raspberry Pi with the USB cable.
@@ -134,7 +134,7 @@ Be sure to use the upper middle USB port of the Raspberry Pi.
 ### Step 8
 
 The very last step of the assembly of the MAL is to screw down the top cover on the case.
-Take the top cover and four hex screws (Part no. X).
+Take the top cover (3D model: mal-top-cover) and four hex screws (Part no. X).
 ![27](/pictures/27.jpeg)
 
 The final result should look like this:
