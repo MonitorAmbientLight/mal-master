@@ -44,6 +44,7 @@ You can either use PETG or PLA in any desired color as your printing material. A
 > Don't use a soft plastic like TPU or conductive material.  
 
 # Hardware assembly
+The following sections will guide you through the process to get the hardware assembled and ready so that we can then deploy the software.
 ## Assembling the MAL
 ### Step 1
 
