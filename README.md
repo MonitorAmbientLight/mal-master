@@ -9,7 +9,11 @@ The MAL system is interposed between the source and the output device via HDMI. 
 Below you will find everything that is necessary to 3D print the case, assemble the MAL system and getting started with the software.  
 
 # Preparations / Requirements
-In order to assemble the system and get started, you still need some hardware components and software. To ensure compatibility, you should use the listed hardware and software. If you have advanced knowledge you can of course use other parts and modify them as you like.
+In order to assemble the system and get started, you need some hardware components and software.  
+To ensure compatibility, you should use the listed hardware and software.  
+If you have advanced knowledge you can of course use other parts and modify them as you like.
+
+> You are not bound to use the MAL case. You can either design your own case, use ours or use all parts in open setup. **The last solution is only usable for a first test.**
 
 ## Hardware list
 
