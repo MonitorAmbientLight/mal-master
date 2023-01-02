@@ -39,12 +39,11 @@ Print speed: 70 mm/s
 You can either use PETG or PLA in any desired color as your printing material. Any other material like ABS should be also no problem.  
 >> Don't use a soft plastic like TPU or conductive material.  
 
-
 # Hardware assembly
 ## Assembling the MAL
 ### Step 1
 
-Have the breadboard and the oblong microcontroller ready.
+Have the breadboard and the oblong microcontroller ready.  
 ![01](/pictures/01.jpeg)
 
 Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.
@@ -58,7 +57,7 @@ Now pull off the cover foil of the adhesive pad on the bottom side of the breadb
 Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two 2,5 mm screws (yellow marker).
 ![04](/pictures/04.jpeg)
 
-The intermediate result should now look like this:
+The intermediate result should now look like this:  
 ![05](/pictures/05.jpeg)
 
 ### Step 3
@@ -66,20 +65,20 @@ The intermediate result should now look like this:
 Have the round hollow plug with the black and red cable, the corresponding nut and a plier or a suitable wrench ready.
 ![06](/pictures/06.jpeg)
 
-Now take the hollow plug and insert it with the cables first from the outside of the MAL case through the round hole near the breadboard, so that the black plastic of the hollow plug is flush with the wall of the MAL case.
+Now take the hollow plug and insert it with the cables first from the outside of the MAL case through the round hole near the breadboard, so that the black plastic of the hollow plug is flush with the wall of the MAL case.  
 Now use the nut to hand-tighten the hollow connector from the other side.
 ![07](/pictures/07.jpeg)
 
 ### Step 4
 
-Have the following plug cables ready:
-
-One male and one female end:
+Have the following plug cables ready:  
+  
+One male and one female end:  
 - 1x white
 - 1x red
 - 1x green
-
-Male on both ends:
+  
+Male on both ends:  
 - 1x white
 - 1x blue
 
@@ -91,7 +90,7 @@ Now plug the blue cable into the last row of the breadboard at the height of the
 Then take the green cable and plug with the male end at the next left position right after the blue cable. The green cable should now at the height of the second pin of the microcontroller.
 ![10](/pictures/10.jpeg)
 
-The next cable is the white cable with one male and one female end.
+The next cable is the white cable with one male and one female end.  
 Plug the male side on the next left position right after the green cable so that the white cable is now on the horizontal height of the very last pin of the microcontroller (on the side of the nose or cutout of the microcontroller).
 ![11](/pictures/11.jpeg)
 
@@ -101,8 +100,8 @@ Now we need the red cable (be sure to use the plug cable not the red cable from 
 Take the black cable from the hollow plug and plug it into the very last position on the right hand side of the breadboard (on the row of the other 3 plugged in cables).
 ![13](/pictures/13.jpeg)
 
-The last cable is the white cable with both male ends.
-Plug the end in the very next vertical position after the last plugged in black cable.
+The last cable is the white cable with both male ends.  
+Plug the end in the very next vertical position after the last plugged in black cable.  
 ![14](/pictures/14.jpeg)
 
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
@@ -145,18 +144,18 @@ Have the black capture card and the corresponding USB A 3.0 to USB A 3.0 cable a
 ![23](/pictures/23.jpeg)
 ![24](/pictures/24.jpeg)
 
-Place the capture card in the intended place. Be sure that the orientation is correct. The two HDMI ports must be fully accessible from the outside of the MAL case.
+Place the capture card in the intended place. Be sure that the orientation is correct. The two HDMI ports must be fully accessible from the outside of the MAL case.  
 Now secure the capture card with the capture card mount and the screw.
 ![25](/pictures/25.jpeg)
 
-Finally connect the capture card with the Raspberry Pi with the USB cable.
-Be sure to use the upper middle USB port of the Raspberry Pi.
+Finally connect the capture card with the Raspberry Pi with the USB cable.  
+Be sure to use the upper middle USB port of the Raspberry Pi.  
 ![26](/pictures/26.jpeg)
 
 ### Step 8
 
-The very last step of the assembly of the MAL is to screw down the top cover on the case.
-Take the top cover (3D model: mal-top-cover) and four 2,5 mm screws.
+The very last step of the assembly of the MAL is to screw down the top cover on the case.  
+Take the top cover (3D model: mal-top-cover) and four 2,5 mm screws.  
 ![27](/pictures/27.jpeg)
 
 The final result should look like this:
@@ -166,11 +165,11 @@ The final result should look like this:
 
 ## Connecting MAL to HDMI devices and the LED strips
 ### HDMI
-Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.
-As an input device you can use any HDMI capable device with a maximum resolution of 3680x2160 and a refresh rate of 60 Hz.
-If the audio needs to be send through HDMI this is no problem with the MAL as the audio will be passed through,
+Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.  
+As an input device you can use any HDMI capable device with a maximum resolution of 3680x2160 and a refresh rate of 60 Hz.  
+If the audio needs to be send through HDMI this is no problem with the MAL as the audio will be passed through.  
 
-> **For example:** If you want to use a XBOX Series One with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
+> **For example:** If you want to use a XBOX Series One console with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
 
 - Left: HDMI output
 - Right: HDMI input
