@@ -18,7 +18,8 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 # Hardware assembly
 ## Assembling the MAL
- **Step 1**
+### Step 1
+
 Have the white breadboard and the oblong microcontroller ready.
 ![01](/pictures/01.jpeg)
 
@@ -29,6 +30,7 @@ Now pull off the cover foil of the adhesive pad on the bottom side of the breadb
 ![03](/pictures/03.jpeg)
 
 **Step 2**
+
 Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief with two hex screws (Part no. X) (yellow marker).
 ![04](/pictures/04.jpeg)
 
@@ -36,6 +38,7 @@ The intermediate result should now look like this:
 ![05](/pictures/05.jpeg)
 
 **Step 3**
+
 Have the round hollow plug with the black and red cable, the corresponding nut and a plier or a suitable wrench ready.
 ![06](/pictures/06.jpeg)
 
@@ -44,6 +47,7 @@ Now use the nut to hand-tighten the hollow connector from the other side.
 ![07](/pictures/07.jpeg)
 
 **Step 4**
+
 Have the following plug cables ready:
 
 One male and one female end:
@@ -80,6 +84,7 @@ Plug on end in the very next vertical position after the last plugged in black c
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
 
 **Step 5**
+
 Have three of the Wago clamps ready.
 ![15](/pictures/15.jpeg)
 
@@ -95,6 +100,7 @@ Now take the red cable coming from the hollow plug and clamp it in the Wago clam
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
 
 **Step 6**
+
 Have the Raspberry Pi and three hex screws (Part No. Y) ready.
 ![19](/pictures/19.jpeg)
 
@@ -110,6 +116,7 @@ Now connect the red, white and green cable from Step 4 with the female end to th
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
 
 **Step 7**
+
 Have the black capture card the the corresponding USB A 3.0 to USB A 3.0 cable as well as the capture card holder with one hex screw (Part no. X) ready.
 ![23](/pictures/23.jpeg)
 ![24](/pictures/24.jpeg)
@@ -123,6 +130,7 @@ Be sure to use the upper middle USB port of the Raspberry Pi.
 ![26](/pictures/26.jpeg)
 
 **Step 8**
+
 The very last step of the assembly of the MAL is to screw down the top cover on the case.
 Take the top cover and four hex screws (Part no. X).
 ![27](/pictures/27.jpeg)
