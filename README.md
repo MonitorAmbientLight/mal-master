@@ -12,6 +12,10 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 In order to assemble the system and get started, you still need some hardware components and software. To ensure compatibility, you should use the listed hardware and software. If you have advanced knowledge you can of course use other parts and modify them as you like.
 ## Hardware list
 
+Use the provided MAL Hardware list in the parts folder.
+We can not guarantee the availability of each part in your region.
+You might have to find equivilant substitutes.
+
 ## Software download
 
 ## Printing the MAL case
@@ -39,7 +43,7 @@ You can either use PETG or PLA in any desired color as your printing material. A
 ## Assembling the MAL
 ### Step 1
 
-Have the white breadboard and the oblong microcontroller ready.
+Have the breadboard and the oblong microcontroller ready.
 ![01](/pictures/01.jpeg)
 
 Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.
@@ -50,7 +54,7 @@ Now pull off the cover foil of the adhesive pad on the bottom side of the breadb
 
 ### Step 2
 
-Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two hex screws (Part no. X) (yellow marker).
+Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two 2,5 mm screws (yellow marker).
 ![04](/pictures/04.jpeg)
 
 The intermediate result should now look like this:
@@ -120,13 +124,13 @@ Be sure to review your work and compare it with the pictures as this step is nec
 
 ### Step 6
 
-Have the Raspberry Pi and three hex screws (Part No. Y) ready.
+Have the Raspberry Pi and three 2,2 mm screws ready.
 ![19](/pictures/19.jpeg)
 
 Place the Raspberry Pi on the intended place in the MAL case.
 ![20](/pictures/20.jpeg)
 
-Secure the Raspberry Pi with the three screws.
+Secure the Raspberry Pi with the three 2,2 mm screws.
 ![21](/pictures/21.jpeg)
 
 Now connect the red, white and green cable from Step 4 with the female end to the Raspberry Pi as shown:
@@ -151,7 +155,7 @@ Be sure to use the upper middle USB port of the Raspberry Pi.
 ### Step 8
 
 The very last step of the assembly of the MAL is to screw down the top cover on the case.
-Take the top cover (3D model: mal-top-cover) and four hex screws (Part no. X).
+Take the top cover (3D model: mal-top-cover) and four 2,5 mm screws.
 ![27](/pictures/27.jpeg)
 
 The final result should look like this:
