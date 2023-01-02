@@ -96,7 +96,7 @@ Use one Wago clamp for the red and one Wago clamp for the white cable which you 
 For the green and blue cables use only one Wago clamp and clamp the ends together.
 ![17](/pictures/17.jpeg)
 
-Now take the red cable coming from the hollow plug and clamp it in the Wago clamp which is connected to the other red cable. Also take the white cable from Step 4 with both male ends and clamp in together with the other white cable. The blue cable from Step 4 will no be clamped together with the other blue and green cable.
+Now take the red cable coming from the hollow plug and clamp it in the Wago clamp which is connected to the other red cable. Also take the white cable from Step 4 with both male ends and clamp in together with the other white cable. The blue cable from Step 4 will now be clamped together with the other blue and green cable.
 ![18](/pictures/18.jpeg)
 
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
