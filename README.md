@@ -74,13 +74,13 @@ Now use the nut to hand-tighten the hollow connector from the other side.
 Have the following plug cables ready:
 
 One male and one female end:
-1x white
-1x red
-1x green
+- 1x white
+- 1x red
+- 1x green
 
 Male on both ends:
-1x white
-1x blue
+- 1x white
+- 1x blue
 
 ![08](/pictures/08.jpeg)
 
@@ -171,8 +171,8 @@ If the audio needs to be send through HDMI this is no problem with the MAL as th
 
 > **For example:** If you want to use a XBOX Series One with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
 
-Left: HDMI output
-Right: HDMI input
+- Left: HDMI output
+- Right: HDMI input
 
 ![29](/pictures/29.jpeg)
 
