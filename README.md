@@ -4,7 +4,9 @@ The MonitorAmbientLight system (MAL) is a simple and inexpensive open source sol
 
 This solution is based on the open source product Hyperion and is intended to provide a quick and easy way to deploy ambient lights for monitors that anyone can use, with pre-built 3D models, instructions, parts list and pre-built images.
 
-Below you will find everything that is necessary for this.
+The MAL system is interposed between the source and the output device via HDMI. The HDMI signal is analyzed by a Raspberry Pi via a capture card. The colors in the image signal indicate the colors of the LEDs, which light up according to the signal.
+
+Below you will find everything that is necessary to 3D print the case, assemble the MAL system and getting started with the software.
 
 # Preparations / Requirements
 In order to assemble the system and get started, you still need some hardware components and software. To ensure compatibility, you should use the listed hardware and software. If you have advanced knowledge you can of course use other parts and modify them as you like.
@@ -141,6 +143,20 @@ The final result should look like this:
 ## Assembling the LEDs to a monitor
 
 ## Connecting MAL to HDMI devices
+
+Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.
+
+> **For example:** If you want to use a XBOX Series One with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
+
+Left: Input HDMI
+Right: Output HDMI
+
+![29](/pictures/29.jpeg)
+
+
+As an input device you can use any HDMI capable device with a maximum resolution of 3680x2160 and a refresh rate of 60 Hz.
+
+Use the left connector as the input.
 
 # Software preparation
 ## 
