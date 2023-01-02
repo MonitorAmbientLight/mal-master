@@ -1,5 +1,7 @@
 # Introduction to Monitor Ambient Light (MAL)
 
+![mal_logo](/pictures/mal_logo.png)
+
 The Monitor Ambient Light system (MAL) is a simple and inexpensive open source solution that enhances the immersion while playing games and watching movies and series on a monitor.  
 
 This solution is based on the open source product [Hyperion](https://github.com/hyperion-project) and is intended to provide a quick and easy way to deploy ambient lights for monitors that anyone can use, with pre-built 3D models, instructions, parts list and pre-built images.  
