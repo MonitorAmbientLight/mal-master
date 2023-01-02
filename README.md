@@ -16,7 +16,24 @@ In order to assemble the system and get started, you still need some hardware co
 
 ## Printing the MAL case
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+You can either print the case by yourself or use an 3D printing service.
+The corresponding files are in the 3dmodels folder:
+
+mal-base.stl
+mal-cable-strain-relief.stl
+mal-capture-card-mount.stl
+mal-top-cover.stl
+
+As we can only use FDM printers by now we can only advice you to use the following print settings:
+
+Resolution: 0.2 mm
+Supports: no
+Infill: 15 %
+Print speed: 70 mm/s
+
+You can either use PETG or PLA in any desired color as your printing material. Any other material like ABS should be also no problem.
+>> Don't use a soft plastic like TPU or conductive material. 
+
 
 # Hardware assembly
 ## Assembling the MAL
