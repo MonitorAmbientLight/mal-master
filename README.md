@@ -147,7 +147,7 @@ Be sure to review your work and compare it with the pictures as this step is nec
 
 ### Step 7
 
-Have the black capture card and the corresponding USB A 3.0 to USB A 3.0 cable as well as the capture card mount (3D Model: mal-capture-card-mount) with one hex screw (Part no. X) ready.
+Have the black capture card and the corresponding USB A 3.0 to USB A 3.0 cable as well as the capture card mount (3D Model: mal-capture-card-mount) with one 2,5 mm screw ready.
 ![23](/pictures/23.jpeg)
 ![24](/pictures/24.jpeg)
 
