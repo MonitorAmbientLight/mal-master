@@ -13,7 +13,7 @@ In order to assemble the system and get started, you need some hardware componen
 To ensure compatibility, you should use the listed hardware and software.  
 If you have advanced knowledge you can of course use other parts and modify them as you like.
 
-> You are not bound to use the MAL case. You can either design your own case, use ours or use all parts in open setup. **The last solution is only usable for a first test.**
+> You are not bound to use the MAL case. You can either design your own case, use ours or use all parts in an open setup. **The last solution is only suitable for a first test.**
 
 ## Hardware list
 
