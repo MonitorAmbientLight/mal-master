@@ -16,18 +16,18 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 **[Preparations / Requirements](https://github.com/MonitorAmbientLight/mal-master#preparations--requirements)**  
 
 * [Hardware list](https://github.com/MonitorAmbientLight/mal-master#hardware-list)  
-* [Software download]()  
-* [Printing the MAL case]()  
+* [Software download](https://github.com/MonitorAmbientLight/mal-master#software-download)  
+* [Printing the MAL case](https://github.com/MonitorAmbientLight/mal-master#printing-the-mal-case)  
 
-**[Hardware assembly]()**  
+**[Hardware assembly](https://github.com/MonitorAmbientLight/mal-master#hardware-assembly)**  
 
-* [Assembling the MAL]()  
-* [Assembling the LEDs to a monitor]()  
-* [Connecting MAL to HDMI devices and the LED strips]()  
+* [Assembling the MAL](https://github.com/MonitorAmbientLight/mal-master#assembling-the-mal)  
+* [Assembling the LEDs to a monitor](https://github.com/MonitorAmbientLight/mal-master#assembling-the-leds-to-a-monitor)  
+* [Connecting MAL to HDMI devices and the LED strips](https://github.com/MonitorAmbientLight/mal-master#connecting-mal-to-hdmi-devices-and-the-led-strips)  
 
-**[Software deployment]()**  
-* [Deployment of the Raspberry Pi image]()  
-* [Installation of the MAL Remote app]()  
+**[Software deployment](https://github.com/MonitorAmbientLight/mal-master#software-deployment)**  
+* [Deployment of the Raspberry Pi image](https://github.com/MonitorAmbientLight/mal-master#deployment-of-the-raspberry-pi-image)  
+* [Installation of the MAL Remote app](https://github.com/MonitorAmbientLight/mal-master#installation-of-the-mal-remote-app)  
 
 # Preparations / Requirements
 In order to assemble the system and get started, you need some hardware components and software.  
