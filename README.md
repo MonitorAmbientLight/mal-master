@@ -236,7 +236,7 @@ Finally you can take the last longer strip and apply it to the bottom side of th
 
 The final result will look like this:  
 
-37
+![37](/pictures/37.jpeg)
 
 ## Connecting MAL to HDMI devices and the LED strips
 ### HDMI
