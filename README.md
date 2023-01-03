@@ -256,9 +256,21 @@ If the audio needs to be send through HDMI this is no problem with the MAL as th
 - Right: HDMI input
 
 ![29](/pictures/29.jpeg)
+![32](/pictures/32.jpeg)
 
 ### LED strips
 Connect the both ends of the 4 pin cables of the MAL with the LED strip.
+
+![33](/pictures/33.jpeg)
+
+### Power the LEDs and the Raspberry Pi
+
+To power the LEDs and the Raspberry Pi you will now have to take the DC 12 V power supply with the hollow plug and the USB-C power supply ready.
+Connect the USB-C power supply with the left USB-C port at the MAL case and the DC 12 V power supply with the hollow plug on the right side.
+
+![34](/pictures/34.jpeg)
+
+You MAL system is now ready to be deloyed with the MAL software.
 
 # Software deployment
 ## Deployment of the Raspberry Pi image
