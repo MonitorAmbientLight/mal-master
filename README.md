@@ -208,7 +208,7 @@ will tell you after how many LEDs you will have to do each cut. The cheat sheet 
 Search for the feed point where the LED strip will be connected to the 4 pin cable that sticks out of the MAL case.
 The feed point is the same cable as the 4 pin cable of the MAL case. It has 4 pins at the end.
 
-36
+![36](/pictures/36.jpeg)
 
 The feed point will start at the lower right point of your display (seen from the back of the display) and will then go upwards to the horizontal line.
 Now take the MAL LED strip cheat sheet and search for you the column **Display size in inch** and search for the row with the display size of your monitor / TV. The next column shows you the **Vertical LED count**. This is the measure you need to now count starting from the 4 pin connector until you reach the LED count shown in the according cell.  
