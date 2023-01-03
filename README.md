@@ -176,7 +176,7 @@ The final result should look like this:
 ## Connecting MAL to HDMI devices and the LED strips
 ### HDMI
 Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.  
-As an input device you can use any HDMI capable device with a maximum resolution of 3860x2160 and a refresh rate of 60 Hz.  
+As an input device you can use any HDMI capable device with a maximum resolution of 3840x2160 and a refresh rate of 60 Hz.  
 If the audio needs to be send through HDMI this is no problem with the MAL as the audio will be passed through.  
 
 > **For example:** If you want to use a XBOX Series One console with your TV and MAL, the XBOXs HDMI output needs to be connected to the input of the MAL. The output of the MAL needs to be connected with your TV.
