@@ -137,26 +137,26 @@ Be sure to review your work and compare it with the pictures as this step is nec
 
 ### Step 5
 
-Have three of the Wago clamps ready.
+Have three of the Wago clamps ready.  
 ![15](/pictures/15.jpeg)
 
-Use one Wago clamp for the red and one Wago clamp for the white cable which you installed in Step 2. Clamp the ends of the cables in the Wago clamp.
+Use one Wago clamp for the red and one Wago clamp for the white cable which you installed in Step 2. Clamp the ends of the cables in the Wago clamp.  
 ![16](/pictures/16.jpeg)
 
-For the green and blue cables use only one Wago clamp and clamp the ends together.
+For the green and blue cables use only one Wago clamp and clamp the ends together.  
 ![17](/pictures/17.jpeg)
 
-Now take the red cable coming from the hollow plug and clamp it in the Wago clamp which is connected to the other red cable. Also take the white cable from Step 4 with both male ends and clamp in together with the other white cable. The blue cable from Step 4 will now be clamped together with the other blue and green cable.
+Now take the red cable coming from the hollow plug and clamp it in the Wago clamp which is connected to the other red cable. Also take the white cable from Step 4 with both male ends and clamp in together with the other white cable. The blue cable from Step 4 will now be clamped together with the other blue and green cable.  
 ![18](/pictures/18.jpeg)
 
 Be sure to review your work and compare it with the pictures as this step is necessary for a functional MAL solution. **A wrong cabling may destroy parts or the whole solution.**
 
 ### Step 6
 
-Have the Raspberry Pi and three 2,2 mm screws ready.
+Have the Raspberry Pi and three 2,2 mm screws ready.  
 ![19](/pictures/19.jpeg)
 
-Place the Raspberry Pi on the intended place in the MAL case.
+Place the Raspberry Pi on the intended place in the MAL case.  
 ![20](/pictures/20.jpeg)
 
 Secure the Raspberry Pi with the three 2,2 mm screws.
