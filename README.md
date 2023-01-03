@@ -1,6 +1,6 @@
 # Introduction to Monitor Ambient Light (MAL)
 
-![mal_logo](/pictures/mal_logo.png)![mal-case](/pictures/mal-case.jpeg)
+![mal_logo](/pictures/mal_logo.png)
 
 The Monitor Ambient Light system (MAL) is a simple and inexpensive open source solution that enhances the immersion while playing games and watching movies and series on a monitor.  
 
@@ -9,6 +9,8 @@ This solution is based on the open source product [Hyperion](https://github.com/
 The MAL system is interposed between the source and the output device via HDMI. The HDMI signal is analyzed by a Raspberry Pi via a capture card. The colors in the image signal indicate the colors of the LEDs, which light up according to the signal.  
 
 Below you will find everything that is necessary to 3D print the case, assemble the MAL system and getting started with the software.  
+
+![mal-case](/pictures/mal-case.jpeg)
 
 # Preparations / Requirements
 In order to assemble the system and get started, you need some hardware components and software.  
