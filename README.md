@@ -91,11 +91,11 @@ The intermediate result should now look like this:
 
 ### Step 3
 
-Have the round hollow plug with the black and red cable, the corresponding nut and a plier or a suitable wrench ready.
+Have the round hollow plug with the black and red cable, the corresponding nut and a plier or a suitable wrench ready.  
 ![06](/pictures/06.jpeg)
 
 Now take the hollow plug and insert it with the cables first from the outside of the MAL case through the round hole near the breadboard, so that the black plastic of the hollow plug is flush with the wall of the MAL case.  
-Now use the nut to hand-tighten the hollow connector from the other side.
+Now use the nut to hand-tighten the hollow connector from the other side.  
 ![07](/pictures/07.jpeg)
 
 ### Step 4
