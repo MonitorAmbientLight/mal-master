@@ -238,6 +238,12 @@ The final result will look like this:
 
 ![37](/pictures/37.jpeg)
 
+### Connect each LED strip
+
+To finalize your work at your display you will now connect every LED strip with the 4 pin corner LED strip connectors.
+
+![31](/pictures/31.jpeg)
+
 ## Connecting MAL to HDMI devices and the LED strips
 ### HDMI
 Any device which you want to use with the MAL needs to be connected through the MAL to your monitor.  
