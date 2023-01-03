@@ -58,15 +58,15 @@ The following sections will guide you through the process to get the hardware as
 Have the breadboard and the oblong microcontroller ready.  
 ![01](/pictures/01.jpeg)
 
-Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.
+Now put the microcontroller in the horizontal center of the white breadboard, so that the nose or cutout (yellow marker) on the controller points to the center of the breadboard.  
 ![02](/pictures/02.jpeg)
 
-Now pull off the cover foil of the adhesive pad on the bottom side of the breadboard. Glue the breadboard into the MAL case (3D Model: mal-base) so that it rests against the wall (yellow marker) and the horizontal edge is about 1.5 centimeters away from the lower wall (orange marker).
+Now pull off the cover foil of the adhesive pad on the bottom side of the breadboard. Glue the breadboard into the MAL case (3D Model: mal-base) so that it rests against the wall (yellow marker) and the horizontal edge is about 1.5 centimeters away from the lower wall (orange marker).  
 ![03](/pictures/03.jpeg)
 
 ### Step 2
 
-Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two 2,5 mm screws (yellow marker).
+Now take the 4-core cable with the black plug and push it through the rectangular hole where the two side-by-side glands are located, so that the exposed wire ends protrude about 2 centimeters behind the gland and screw down the strain relief (3D model: mal-cable-strain-relief) with two 2,5 mm screws (yellow marker).  
 ![04](/pictures/04.jpeg)
 
 The intermediate result should now look like this:  
