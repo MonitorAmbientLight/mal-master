@@ -24,6 +24,9 @@ We can not guarantee the availability of each part in your region.
 You might have to find equivilant substitutes.  
 
 ## Software download
+### Image for Raspberry Pi
+
+### MAL Remote App
 
 ## Printing the MAL case
 
@@ -186,6 +189,8 @@ If the audio needs to be send through HDMI this is no problem with the MAL as th
 ### LED strips
 Connect the both ends of the 4 pin cables of the MAL with the LED strip.
 
-# Software preparation
-## 
+# Software deployment
+## Deployment of the Raspberry Pi image
+
+## Installation of the MAL Remote App
 
