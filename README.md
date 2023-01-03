@@ -191,6 +191,52 @@ The final result should look like this:
 ![28](/pictures/28.jpeg)
 
 ## Assembling the LEDs to a monitor
+### Cutting the LED strip
+
+Each LED strip has segments. The segments are separated by four solder / connector points (copper plates between the LEDs).
+You will have to cut the LED strip at the right length with a scissor so that you can then apply these to your monitor or TV.
+
+> **Attention:** Be sure that these LED strip have a fixed direction. You will find arrows printed on the strips. The direction is important when you cut the LED strip and apply these to your display. Make sure the arrows show in the same direction starting from the feed point to the end of the strip.
+
+![35](/pictures/35.jpeg)
+
+As we only supports fixed display sizes we advice you to use our MAL LED strip cheat sheet in the instructions folder. This document
+will tell you after how many LEDs you will have to do each cut. The cheat sheet will be updated in the future to support more display sizes.
+
+> **For example:** You have a display with a diagonal size of 40 inch. You will need two vertical and two horizontal LED strips. According to our cheat sheet you will need two LED strips for the vertical part with a length of 29 LEDs and two LED strips for the horizontal part of your display with a length of 51 LEDs.
+
+Search for the feed point where the LED strip will be connected to the 4 pin cable that sticks out of the MAL case.
+The feed point is the same cable as the 4 pin cable of the MAL case. It has 4 pins at the end.
+
+36
+
+The feed point will start at the lower right point of your display (seen from the back of the display) and will then go upwards to the horizontal line.
+Now take the MAL LED strip cheat sheet and search for you the column **Display size in inch** and search for the row with the display size of your monitor / TV. The next column shows you the **Vertical LED count**. This is the measure you need to now count starting from the 4 pin connector until you reach the LED count shown in the according cell.  
+Then take the scissor and carefully cut the strip at the copper plated segments.  
+  
+Repeat the step for the other vertical LED strip. As a help you can now take the first LED strip at hold it side by side.  
+You can then just cut at the right count as you already have the right length.  
+
+You now have both LED strips for the vertical part of your display.  
+Repeat the process for the horizontal LED strips. Have a look in the MAL LED strip cheat sheet and search for the column **Horizontal LED count**.  
+
+At the end you will have a total of four LED strips. Two shorter (with one having the 4 pin connector at the start) and two longer strips.  
+
+### Applying the LED strips to the display
+
+After you cut all the LED strips you can now apply the strips to your display.  
+Begin with the vertical (shorter) LED strip with the 4 pin connector at the start.  
+This LED strip will be glued to the right side of the display. The connector must be at the bottom.  
+
+You can then take the longer strip which is indended to be placed at the top of the display.
+Next glue the last shorter LED strip on the left side of the display.  
+Finally you can take the last longer strip and apply it to the bottom side of the display.  
+
+> **Attention:** Be sure that these LED strip have a fixed direction. You will find arrows printed on the strips. The direction is important when you cut the LED strip and apply these to your display. Make sure the arrows show in the same direction starting from the feed point to the end of the strip.
+
+The final result will look like this:  
+
+37
 
 ## Connecting MAL to HDMI devices and the LED strips
 ### HDMI
