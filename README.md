@@ -13,10 +13,10 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 ![mal-case](/pictures/mal-case.jpeg)
 
 ## Table of content
-[Preparations / Requirements]() 
-  [Hardware list]()  
-  [Software download]()  
-  [Printing the MAL case]()  
+[Preparations / Requirements]()  
+ [Hardware list]()  
+ [Software download]()  
+ [Printing the MAL case]()  
 [Hardware assembly]()  
   [Assembling the MAL]()  
   [Assembling the LEDs to a monitor]()  
