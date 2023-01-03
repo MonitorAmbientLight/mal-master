@@ -200,7 +200,7 @@ You will have to cut the LED strip at the right length with a scissor so that yo
 
 ![35](/pictures/35.jpeg)
 
-As we only supports fixed display sizes we advice you to use our MAL LED strip cheat sheet in the instructions folder. This document
+As we only supports fixed display sizes we advice you to use our **MAL LED strip cheat sheet** in the [instructions folder](/instructions). This document
 will tell you after how many LEDs you will have to do each cut. The cheat sheet will be updated in the future to support more display sizes.
 
 > **For example:** You have a display with a diagonal size of 40 inch. You will need two vertical and two horizontal LED strips. According to our cheat sheet you will need two LED strips for the vertical part with a length of 29 LEDs and two LED strips for the horizontal part of your display with a length of 51 LEDs.
