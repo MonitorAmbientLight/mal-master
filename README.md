@@ -15,7 +15,7 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 ## Table of content
 **[Preparations / Requirements](https://github.com/MonitorAmbientLight/mal-master#preparations--requirements)**  
 
-* [Hardware list]()  
+* [Hardware list](https://github.com/MonitorAmbientLight/mal-master#hardare-list)  
 * [Software download]()  
 * [Printing the MAL case]()  
 
