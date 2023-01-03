@@ -12,6 +12,19 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 
 ![mal-case](/pictures/mal-case.jpeg)
 
+## Table of content
+[Preparations / Requirements]()
+  [Hardware list]()
+  [Software download]()
+  [Printing the MAL case]()
+[Hardware assembly]()
+  [Assembling the MAL]()
+  [Assembling the LEDs to a monitor]()
+  [Connecting MAL to HDMI devices and the LED strips]()
+[Software deployment]()
+  [Deployment of the Raspberry Pi image]()
+  [Installation of the MAL Remote app]()
+
 # Preparations / Requirements
 In order to assemble the system and get started, you need some hardware components and software.  
 To ensure compatibility, you should use the listed hardware and software.  
