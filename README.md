@@ -1,7 +1,6 @@
 # Introduction to Monitor Ambient Light (MAL)
 
-![mal_logo](/pictures/mal_logo.png)
-![mal_case](/pictures/mal-case.jpeg)
+![mal_logo](/pictures/mal_logo.png)![mal-case](/pictures/mal-case.jpeg)
 
 The Monitor Ambient Light system (MAL) is a simple and inexpensive open source solution that enhances the immersion while playing games and watching movies and series on a monitor.  
 
