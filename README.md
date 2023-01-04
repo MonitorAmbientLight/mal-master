@@ -29,6 +29,8 @@ Below you will find everything that is necessary to 3D print the case, assemble 
 * [Deployment of the Raspberry Pi image](https://github.com/MonitorAmbientLight/mal-master#deployment-of-the-raspberry-pi-image)  
 * [Installation of the MAL Remote app](https://github.com/MonitorAmbientLight/mal-master#installation-of-the-mal-remote-app)  
 
+**[Quick Start Guide: Starting the MAL and MAL Remote App](https://github.com/MonitorAmbientLight/mal-master/blob/main/README.md#quick-start-guide-starting-the-mal-and-mal-remote-app)**  
+
 # Preparations / Requirements
 In order to assemble the system and get started, you need some hardware components and software.  
 To ensure compatibility, you should use the listed hardware and software.  
