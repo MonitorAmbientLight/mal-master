@@ -290,4 +290,5 @@ You MAL system is now ready to be deployed with the MAL software.
 # Quick Start Guide: Starting the MAL and MAL Remote App
 The start page consists of an input field in which the corresponding Hyperion IP address must be entered in order to be able to use the application. The main page consists of two buttons, one for openning the  Color Adjustment page and the second for general Settings. There are several light colors and gamma values on the Color Adjustment page that can be adjust to personal needs. And of course there are different buttons to save the changes, reset the values to default or return to the main page. On the Settings page are toggle buttons for effects, smooting, LED lights, and a brightness slider that allows users to choose from a range of values by moving the slider. Also, there are two buttons to save the changes or return to the main page.
 
-![35](/pictures/App1.png) ![36](/pictures/App2.png) ![37](/pictures/App3.png) ![App4](/pictures/App4.png)
+![35](/pictures/App1.png) 
+<img src="/pictures/App1.png" alt="App1" style="width:219px;"/> ![36](/pictures/App2.png) ![37](/pictures/App3.png) ![App4](/pictures/App4.png)
