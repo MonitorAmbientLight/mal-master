@@ -291,3 +291,4 @@ You MAL system is now ready to be deployed with the MAL software.
 Test
 
 ![35](/pictures/App1.png) ![36](/pictures/App2.png) ![37](/pictures/App3.png) ![App4](/pictures/App4.png)
+![App](/pictures/App.png)
