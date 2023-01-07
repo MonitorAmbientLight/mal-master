@@ -47,10 +47,11 @@ You might have to find equivilant substitutes.
 ## Software download
 ### Image for Raspberry Pi
 
-Please download the MAL Image that fits for you needs from the [mal-images folder](/mal-images) folder.
-The naming scheme is as follows:
+Please download the MAL image that fits for you needs from the [mal-images](/mal-images) folder.  
+The image will be used to install it onto a SD card.  
+The naming scheme is as follows:  
 
-mal-image_[TV-SIZE]-inch.exe
+mal-image_[TV-SIZE]-inch.exe  
 
 > **For example:** If you have a display with a diagonal size of 40 inch you will need the image with the name **mal-image_40-inch.exe**
 
