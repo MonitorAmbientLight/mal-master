@@ -288,3 +288,6 @@ You MAL system is now ready to be deployed with the MAL software.
 ## Installation of the MAL Remote App
 
 # Quick Start Guide: Starting the MAL and MAL Remote App
+Test
+
+![35](/pictures/App1.png)
