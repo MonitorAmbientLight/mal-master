@@ -45,6 +45,9 @@ We can not guarantee the availability of each part in your region.
 You might have to find equivilant substitutes.  
 
 ## Software download
+
+**WORK IN PROGRESS**  
+
 ### Image for Raspberry Pi
 
 Please download the MAL image that fits for you needs from the [mal-images](/mal-images) folder.  
@@ -56,6 +59,8 @@ mal-image_[TV-SIZE]-inch.exe
 > **For example:** If you have a display with a diagonal size of 40 inch you will need the image with the name **mal-image_40-inch.exe**
 
 ### MAL Remote App
+
+**WORK IN PROGRESS**  
 
 ## Printing the MAL case
 
@@ -285,9 +290,16 @@ You MAL system is now ready to be deployed with the MAL software.
 # Software deployment
 ## Deployment of the Raspberry Pi image
 
+**WORK IN PROGRESS**  
+
 ## Installation of the MAL Remote App
 
+**WORK IN PROGRESS**  
+
 # Quick Start Guide: Starting the MAL and MAL Remote App
+
+**WORK IN PROGRESS**  
+
 The start page consists of an input field in which the corresponding Hyperion IP address must be entered in order to be able to use the application. The main page consists of two buttons, one for openning the  Color Adjustment page and the second for general Settings. There are several light colors and gamma values on the Color Adjustment page that can be adjust to personal needs. And of course there are different buttons to save the changes, reset the values to default or return to the main page. On the Settings page are toggle buttons for effects, smooting, LED lights, and a brightness slider that allows users to choose from a range of values by moving the slider. Also, there are two buttons to save the changes or return to the main page.
 
 <img src="/pictures/App1.png" alt="App1" style="width:219px;"/> ![36](/pictures/App2.png) ![37](/pictures/App3.png) ![App4](/pictures/App4.png)
