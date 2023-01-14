@@ -46,8 +46,6 @@ You might have to find equivilant substitutes.
 
 ## Software download
 
-**WORK IN PROGRESS**  
-
 ### Image for Raspberry Pi
 
 Please download the MAL image that fits for you needs from the [mal-images](/mal-images) folder.  
