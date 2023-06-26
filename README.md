@@ -82,6 +82,8 @@ You can either use PETG or PLA in any desired color as your printing material. A
 
 # Hardware assembly
 The following sections will guide you through the process to get the hardware assembled and ready so that we can then deploy the software.
+You can also watch the assembling video here: [Assembling the MAL system](https://youtu.be/FyggdWm1GQ4)
+
 ## Assembling the MAL
 ### Step 1
 
