@@ -294,7 +294,48 @@ You MAL system is now ready to be deployed with the MAL software.
 
 ## Installation of the MAL Remote App
 
-**WORK IN PROGRESS**  
+### How to Install APK Files on ANY Android
+
+**Introduction:**
+APK files are Android application packages used to install apps on Android devices. This guide will walk you through the process of installing APK files on your Android device.
+
+**Requirements:**
+- An Android smartphone or tablet
+- A downloaded APK file
+
+## Instructions:
+
+1. **Download the APK file:**
+   - Using your Android device, download the AmbientLight-APK file from a trusted source.
+
+2. **Access the file directory:**
+   - Open the "My Files" or "Files" app on your Android device. The name may vary depending on your device.
+
+3. **Locate the downloaded APK file:**
+   - Navigate to the "Downloads" folder or directly to the "APKs" folder, depending on your device's file organization.
+
+4. **Select the APK file:**
+   - Tap on the downloaded AmbientLight-APK file.
+
+5. **Enable installation from unknown sources:**
+   - A notification will appear, stating, "For your security, your phone isn't allowed to install unknown apps from this          source. You can change this in Settings."
+   - Tap on the notification to open Settings.
+   - Toggle on the "Allow from this source" option.
+
+6. **Confirm the installation:**
+   - The installation prompt will reappear.
+   - Press the "Install" button to begin the installation process.
+
+7. **Complete the installation:**
+   - Wait for the installation process to finish. This may take a few moments.
+
+8. **Choose the next step:**
+   - Once the installation is complete, you can either press "Done" to exit the installer or "Open" to launch the newly           installed app.
+
+Congratulations! You have successfully installed the AmbientLight app on your Android device. You can now use the app and explore its features.
+
+**Note:** Installing APK files from untrusted sources can pose a security risk to your device. Make sure to download APK files only from reputable sources and exercise caution when enabling installation from unknown sources.
+
 
 # Quick Start Guide: Starting the MAL and MAL Remote App
 
