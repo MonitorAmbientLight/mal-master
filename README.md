@@ -294,19 +294,18 @@ You MAL system is now ready to be deployed with the MAL software.
 
 ## Installation of the MAL Remote App
 
-### How to Install APK Files on ANY Android
+### How to Install MAL-APK file on ANY Android
 
 **Introduction:**
-APK files are Android application packages used to install apps on Android devices. This guide will walk you through the process of installing APK files on your Android device.
+APK files are Android application packages used to install apps on Android devices. This guide will walk you through the process of installing MAL-APK file on your Android device.
 
 **Requirements:**
 - An Android smartphone or tablet
-- A downloaded APK file
 
 ## Instructions:
 
 1. **Download the APK file:**
-   - Using your Android device, download the AmbientLight-APK file from a trusted source.
+   - Using your Android device, download the MAL.apk file from the [apk-file folder](/apk-file).
 
 2. **Access the file directory:**
    - Open the "My Files" or "Files" app on your Android device. The name may vary depending on your device.
@@ -315,7 +314,7 @@ APK files are Android application packages used to install apps on Android devic
    - Navigate to the "Downloads" folder or directly to the "APKs" folder, depending on your device's file organization.
 
 4. **Select the APK file:**
-   - Tap on the downloaded AmbientLight-APK file.
+   - Tap on the downloaded MAL.apk file.
 
 5. **Enable installation from unknown sources:**
    - A notification will appear, stating, "For your security, your phone isn't allowed to install unknown apps from this          source. You can change this in Settings."
@@ -332,10 +331,7 @@ APK files are Android application packages used to install apps on Android devic
 8. **Choose the next step:**
    - Once the installation is complete, you can either press "Done" to exit the installer or "Open" to launch the newly           installed app.
 
-Congratulations! You have successfully installed the AmbientLight app on your Android device. You can now use the app and explore its features.
-
-**Note:** Installing APK files from untrusted sources can pose a security risk to your device. Make sure to download APK files only from reputable sources and exercise caution when enabling installation from unknown sources.
-
+**Congratulations!** You have successfully installed the MAL app on your Android device. You can now use the app and explore its features.
 
 # Quick Start Guide: Starting the MAL and MAL Remote App
 
