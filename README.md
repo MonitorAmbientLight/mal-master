@@ -45,9 +45,20 @@ We can not guarantee the availability of each part in your region.
 You might have to find equivilant substitutes.  
 
 ## Software download
+
 ### Image for Raspberry Pi
 
+Please download the MAL image that fits for you needs from the [mal-images](/mal-images) folder.  
+The image will be used to install it onto a SD card.  
+The naming scheme is as follows:  
+
+mal-image_[TV-SIZE]-inch.exe  
+
+> **For example:** If you have a display with a diagonal size of 40 inch you will need the image with the name **mal-image_40-inch.exe**
+
 ### MAL Remote App
+
+**WORK IN PROGRESS**  
 
 ## Printing the MAL case
 
@@ -71,6 +82,8 @@ You can either use PETG or PLA in any desired color as your printing material. A
 
 # Hardware assembly
 The following sections will guide you through the process to get the hardware assembled and ready so that we can then deploy the software.
+You can also watch the assembling video here: [Assembling the MAL system](https://youtu.be/FyggdWm1GQ4)
+
 ## Assembling the MAL
 ### Step 1
 
@@ -277,6 +290,56 @@ You MAL system is now ready to be deployed with the MAL software.
 # Software deployment
 ## Deployment of the Raspberry Pi image
 
+1. To deploy an IMG File from one of our preconfigured [MAL-Images](/mal-images), you need to have the Raspberry Pi Imager installed. It is available for download [here](https://www.raspberrypi.com/software/).
+2. To deploy the IMG File to a SD card, start the Raspberry Pi Imager and select the downloaded IMG File as OS-Image. Now select your injected SD card and additionaly click on the settings wheel located at the bottom right corner.
+3. Set the hostname to "raspberrypi", select an individual username and unique password (you do not need it, unless you want to make changes within the OS itself). Set the WiFi-SSID to your local WiFi Name and enter the according password. You may also set your local timezone and keyboard layout.
+4. After installing the image on the SD card, your MAL Application is ready to run once you inject it into the Raspbery Pi.
+
 ## Installation of the MAL Remote App
 
+### How to Install MAL-APK file on ANY Android
+
+**Introduction:**
+APK files are Android application packages used to install apps on Android devices. This guide will walk you through the process of installing MAL-APK file on your Android device.
+
+**Requirements:**
+- An Android smartphone or tablet
+
+## Instructions:
+
+1. **Download the APK file:**
+   - Using your Android device, download the MAL.apk file from the [apk-file folder](/apk-file).
+
+2. **Access the file directory:**
+   - Open the "My Files" or "Files" app on your Android device. The name may vary depending on your device.
+
+3. **Locate the downloaded APK file:**
+   - Navigate to the "Downloads" folder or directly to the "APKs" folder, depending on your device's file organization.
+
+4. **Select the APK file:**
+   - Tap on the downloaded MAL.apk file.
+
+5. **Enable installation from unknown sources:**
+   - A notification will appear, stating, "For your security, your phone isn't allowed to install unknown apps from this          source. You can change this in Settings."
+   - Tap on the notification to open Settings.
+   - Toggle on the "Allow from this source" option.
+
+6. **Confirm the installation:**
+   - The installation prompt will reappear.
+   - Press the "Install" button to begin the installation process.
+
+7. **Complete the installation:**
+   - Wait for the installation process to finish. This may take a few moments.
+
+8. **Choose the next step:**
+   - Once the installation is complete, you can either press "Done" to exit the installer or "Open" to launch the newly           installed app.
+
+**Congratulations!** You have successfully installed the MAL app on your Android device. You can now use the app and explore its features.
+
 # Quick Start Guide: Starting the MAL and MAL Remote App
+
+**WORK IN PROGRESS**  
+
+The start page consists of an input field in which the corresponding Hyperion IP address must be entered in order to be able to use the application. The main page consists of two buttons, one for openning the  Color Adjustment page and the second for general Settings. There are several light colors and gamma values on the Color Adjustment page that can be adjust to personal needs. And of course there are different buttons to save the changes, reset the values to default or return to the main page. On the Settings page are toggle buttons for effects, smooting, LED lights, and a brightness slider that allows users to choose from a range of values by moving the slider. Also, there are two buttons to save the changes or return to the main page.
+
+<img src="/pictures/App1.png" alt="App1" style="width:219px;"/> ![36](/pictures/App2.png) ![37](/pictures/App3.png) ![App4](/pictures/App4.png)
