@@ -290,10 +290,10 @@ You MAL system is now ready to be deployed with the MAL software.
 # Software deployment
 ## Deployment of the Raspberry Pi image
 
-To deploy an IMG File from one of our preconfigured [MAL-Images](/mal-images), you need to have the Raspberry Pi Imager installed. It is available for download [here](https://www.raspberrypi.com/software/).
-To deploy the IMG File to a SD card, start the Raspberry Pi Imager and select the downloaded IMG File as OS-Image. Now select your injected SD card and additionaly click on the settings wheel located at the bottom right corner.
-Set the hostname to "raspberrypi", select an individual username and unique password (you do not need it, unless you want to make changes within the OS itself). Set the WiFi-SSID to your local WiFi Name and enter the according password. You may also set your local timezone and keyboard layout.
-After installing the image on the SD card, your MAL Application is ready to run once you inject it into the Raspbery Pi.
+1. To deploy an IMG File from one of our preconfigured [MAL-Images](/mal-images), you need to have the Raspberry Pi Imager installed. It is available for download [here](https://www.raspberrypi.com/software/).
+2. To deploy the IMG File to a SD card, start the Raspberry Pi Imager and select the downloaded IMG File as OS-Image. Now select your injected SD card and additionaly click on the settings wheel located at the bottom right corner.
+3. Set the hostname to "raspberrypi", select an individual username and unique password (you do not need it, unless you want to make changes within the OS itself). Set the WiFi-SSID to your local WiFi Name and enter the according password. You may also set your local timezone and keyboard layout.
+4. After installing the image on the SD card, your MAL Application is ready to run once you inject it into the Raspbery Pi.
 
 ## Installation of the MAL Remote App
 
