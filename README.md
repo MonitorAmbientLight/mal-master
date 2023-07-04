@@ -336,7 +336,7 @@ APK files are Android application packages used to install apps on Android devic
 
 **Congratulations!** You have successfully installed the MAL app on your Android device. You can now use the app and explore its features.
 
-## Getting Started with the MAL App
+## Quick Start Guide: Getting Started with the MAL App
 
 The MAL App provides a user-friendly interface for controlling your MAL-Hardware. This Quick Start Guide will help you navigate through the app and make the most of its features.
 
@@ -344,17 +344,28 @@ The MAL App provides a user-friendly interface for controlling your MAL-Hardware
 
 - On the home page, you'll find an input field where you can enter the Hyperion IP address associated with your MAL-Hardware. Alternatively, you can simply click on the 'Detect MAL-Hardware' button to automatically connect to the corresponding hardware.
 
-![App4](/pictures/App4.png)
+<img src="/pictures/Page1.png" alt="Page1" style="width:228px;"/>
 
 ### 2. Exploring the Pages
 
 The main page of the MAL App consists of three buttons, each providing access to different settings:
+- Color Adjustment
+- Colors/Effects
+- Settings
+
+<img src="/pictures/Page2.png" alt="Page2" style="width:228px;"/>
 
 - **Color Adjustment:** This page allows you to adjust the light colors and gamma values according to your personal preferences. You'll find various buttons to save changes, reset values to default, or return to the main page.
 
+![Page3](/pictures/Page3.png)
+
 - **Colors/Effects:** On this page, you can set the light to a specific color or enable different effects. Additionally, you'll find buttons to save changes, reset values to default, or return to the main page.
 
+![Page4](/pictures/Page4.png)
+
 - **Settings:** The settings page offers several toggle-buttons, including effects, smoothing, LED lights, and a brightness slider. The brightness slider allows you to choose a value within a range by moving the slider. Moreover, there is a timer input field where you can specify the minutes after which the lights should automatically turn off. Save your changes or return to the main page using the provided buttons.
+
+![Page5](/pictures/Page5.png)
 
 We hope this Quick Start Guide helps you navigate through the MAL App and control your MAL-Hardware effortlessly. 
 **Enjoy your lighting experience!**
