@@ -368,4 +368,4 @@ The main page of the MAL App consists of three buttons, each providing access to
 ![Page5](/pictures/Page5.png)
 
 We hope this Quick Start Guide helps you navigate through the MAL App and control your MAL-Hardware effortlessly. 
-**Enjoy your lighting experience!**
+<br>**Enjoy your lighting experience!**
