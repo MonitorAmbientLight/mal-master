@@ -305,7 +305,7 @@ APK files are Android application packages used to install apps on Android devic
 **Requirements:**
 - An Android smartphone or tablet
 
-## Instructions:
+### Instructions:
 
 1. **Download the APK file:**
    - Using your Android device, download the MAL.apk file from the [apk-file folder](/apk-file).
@@ -336,15 +336,17 @@ APK files are Android application packages used to install apps on Android devic
 
 **Congratulations!** You have successfully installed the MAL app on your Android device. You can now use the app and explore its features.
 
-# Getting Started with the MAL App
+## Getting Started with the MAL App
 
 The MAL App provides a user-friendly interface for controlling your MAL-Hardware. This Quick Start Guide will help you navigate through the app and make the most of its features.
 
-## 1. Connecting to the MAL-Hardware
+### 1. Connecting to the MAL-Hardware
 
 - On the home page, you'll find an input field where you can enter the Hyperion IP address associated with your MAL-Hardware. Alternatively, you can simply click on the 'Detect MAL-Hardware' button to automatically connect to the corresponding hardware.
 
-## 2. Exploring the Pages
+![App4](/pictures/App4.png)
+
+### 2. Exploring the Pages
 
 The main page of the MAL App consists of three buttons, each providing access to different settings:
 
