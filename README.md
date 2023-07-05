@@ -355,7 +355,7 @@ The main page of the MAL App consists of three buttons, each providing access to
 
 <img src="/pictures/Page2.png" alt="Page2" style="width:228px;"/>
 
-- **Color Adjustment:** This page allows you to adjust the light colors and gamma values according to your personal preferences. You'll find various buttons to save changes, reset values to default, or return to the main page.
+- **Color Adjustment:** This page allows you to adjust the brightness, light colors and gamma values according to your personal preferences. You'll find various buttons to save changes, reset values to default, or return to the main page.
 
 ![Page3](/pictures/Page3.png)
 
@@ -363,7 +363,7 @@ The main page of the MAL App consists of three buttons, each providing access to
 
 ![Page4](/pictures/Page4.png)
 
-- **Settings:** The settings page offers several toggle-buttons, including effects, smoothing, LED lights, and a brightness slider. The brightness slider allows you to choose a value within a range by moving the slider. Moreover, there is a timer input field where you can specify the minutes after which the lights should automatically turn off. Save your changes or return to the main page using the provided buttons.
+- **Settings:** The settings page offers several toggle buttons, including effects, smoothing and LED lights. There is also a timer input field where you can specify the minutes after which the lights should automatically turn off. Save your changes or return to the main page using the provided buttons. Additionally, there is a "Clear" button that allows you to clear your app storage.
 
 ![Page5](/pictures/Page5.png)
 
